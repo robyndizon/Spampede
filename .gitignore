@@ -1,0 +1,17 @@
+# https://github.com/github/gitignore/blob/master/Java.gitignore
+# Compiled class file
+bin/
+classes/
+*.class
+
+# https://github.com/github/gitignore/blob/master/Global/Dropbox.gitignore
+# Dropbox settings and caches
+.dropbox
+.dropbox.attr
+.dropbox.cache
+
+# https://github.com/github/gitignore/blob/master/Global/macOS.gitignore
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
